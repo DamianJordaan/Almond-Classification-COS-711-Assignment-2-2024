@@ -3,6 +3,20 @@ Contains the Jupiter notebook and result data files for my COS 711 Assignment 2 
 
 The Notebook Has the Following Sections and Subsections:
 
+Requirments:
+```
+Python 3.12.7
+
+tensorflow==2.17.0
+pandas==2.2.2
+numpy==1.26.4
+optuna==4.0.0
+joblib==1.4.2
+scikit-learn==1.5.1
+tqdm==4.66.5
+matplotlib==3.9.0
+```
+
 index
 ```
 1. Function Definitions
